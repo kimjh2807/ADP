@@ -338,6 +338,3 @@ Nile.forecasts <- forecast(Nile.arima, h = 10)
 Nile.forecasts
 
 plot(Nile.forecasts)
-
-
-
